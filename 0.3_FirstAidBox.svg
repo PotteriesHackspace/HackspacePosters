@@ -14,7 +14,7 @@
    id="svg3195"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="C:\Users\User\Downloads\artifacts\first aid box.svg">
+   sodipodi:docname="0.3_FirstAidBox.svg">
   <defs
      id="defs3" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="350"
-     inkscape:cy="520"
+     inkscape:zoom="1.979899"
+     inkscape:cx="534.81012"
+     inkscape:cy="949.47338"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,9 +53,9 @@
      id="layer1">
     <rect
        id="rect5532"
-       x="4.017674"
-       y="4.2057495"
-       width="740.53607"
+       x="0.48214006"
+       y="0.16513933"
+       width="744.57666"
        height="1054.1538"
        style="fill:#167148;fill-opacity:1;stroke:none" />
     <path
