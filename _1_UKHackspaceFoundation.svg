@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="000 UKHackspaceFoundation.svg">
+   sodipodi:docname="_1_UKHackspaceFoundation.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -36,7 +36,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
      inkscape:cx="780.95276"
-     inkscape:cy="635.61204"
+     inkscape:cy="491.98392"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -70,30 +70,30 @@
     <text
        xml:space="preserve"
        style="font-size:59.6948204px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#3d3d3d;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="325.34332"
-       y="558.59961"
+       x="321.34332"
+       y="692.59961"
        id="text2996"
        sodipodi:linespacing="80.000001%"><tspan
          sodipodi:role="line"
-         x="325.34332"
-         y="558.59961"
+         x="321.34332"
+         y="692.59961"
          style="font-size:71.63381195px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:80.00000119%;text-anchor:start;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia Bold"
          id="tspan3145">Hackspace</tspan><tspan
          sodipodi:role="line"
-         x="325.34332"
-         y="615.90668"
+         x="321.34332"
+         y="749.90668"
          style="font-size:71.63381195px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;text-anchor:start;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
          id="tspan3141">Foundation</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:75.52059174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#3d3d3d;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="193.03044"
-       y="615.50519"
+       x="189.03044"
+       y="749.50519"
        id="text2996-9"
        sodipodi:linespacing="80.000001%"><tspan
          sodipodi:role="line"
-         x="193.03044"
-         y="615.50519"
+         x="189.03044"
+         y="749.50519"
          style="font-size:153.16317749px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia Bold"
          id="tspan3141-8">UK</tspan></text>
     <text
@@ -108,20 +108,20 @@
     <text
        xml:space="preserve"
        style="font-size:23.98827171px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#3d3d3d;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="-564.25977"
-       y="67.373596"
+       x="-698.25977"
+       y="63.373596"
        id="text2996-9-8"
        sodipodi:linespacing="80.000001%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
-         x="-564.25977"
-         y="67.373596"
+         x="-698.25977"
+         y="63.373596"
          style="font-size:48.65056992px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia Bold"
          id="tspan3141-8-2">THE</tspan></text>
     <g
        style="overflow:visible"
        id="g3271"
-       transform="matrix(2.0445417,0,0,2.0445417,24.467168,51.69082)">
+       transform="matrix(2.0445417,0,0,2.0445417,20.467168,185.69082)">
       <switch
          id="switch3206">
         <foreignObject
@@ -170,19 +170,19 @@
                    id="g3223">
                   <polygon
                      id="polygon3225"
-                     points="0.063,20 0.063,76.5 96.063,76.5 "
+                     points="0.063,76.5 96.063,76.5 0.063,20 "
                      style="fill:#13135f" />
                 </g>
                 <polygon
                    id="polygon3227"
-                   points="129.563,76.5 0.063,0 0.063,12 109.911,76.5 "
+                   points="0.063,0 0.063,12 109.911,76.5 129.563,76.5 "
                    i:knockout="Off"
                    style="fill:#ff0000" />
                 <g
                    id="g3229">
                   <polygon
                      id="polygon3231"
-                     points="37.916,0 147.563,67.486 147.563,0 "
+                     points="147.563,67.486 147.563,0 37.916,0 "
                      style="fill:#12145b" />
                 </g>
               </g>
@@ -190,57 +190,57 @@
                  id="g3233">
                 <polygon
                    id="polygon3235"
-                   points="341.563,182 341.563,126 246.563,126 "
+                   points="341.563,126 246.563,126 341.563,182 "
                    style="fill:#13135f" />
               </g>
               <polygon
                  id="polygon3237"
-                 points="213.063,126 341.563,202.125 341.563,190 232.715,126 "
+                 points="341.563,202.125 341.563,190 232.715,126 213.063,126 "
                  i:knockout="Off"
                  style="fill:#ff0000" />
               <g
                  id="g3239">
                 <polygon
                    id="polygon3241"
-                   points="304.681,203 195.035,135.514 195.035,203 "
+                   points="195.035,135.514 195.035,203 304.681,203 "
                    style="fill:#12145b" />
               </g>
               <g
                  id="g3243">
                 <polygon
                    id="polygon3245"
-                   points="341.563,20.513 341.563,76.5 246.563,76.432 "
+                   points="341.563,76.5 246.563,76.432 341.563,20.513 "
                    style="fill:#13135f" />
               </g>
               <polygon
                  id="polygon3247"
-                 points="217.361,76.5 341.563,0 319.009,0 195.063,76.5 "
+                 points="341.563,0 319.009,0 195.063,76.5 217.361,76.5 "
                  i:knockout="Off"
                  style="fill:#ff0000" />
               <g
                  id="g3249">
                 <polygon
                    id="polygon3251"
-                   points="303.75,0 195.063,66.986 195.063,0 "
+                   points="195.063,66.986 195.063,0 303.75,0 "
                    style="fill:#12145b" />
               </g>
               <g
                  id="g3253">
                 <polygon
                    id="polygon3255"
-                   points="0.071,182.481 0.071,125.981 96.071,125.981 "
+                   points="0.071,125.981 96.071,125.981 0.071,182.481 "
                    style="fill:#13135f" />
               </g>
               <polygon
                  id="polygon3257"
-                 points="125.218,125.969 0,203.057 22.572,203.057 147.517,125.969 "
+                 points="0,203.057 22.572,203.057 147.517,125.969 125.218,125.969 "
                  i:knockout="Off"
                  style="fill:#ff0000" />
               <g
                  id="g3259">
                 <polygon
                    id="polygon3261"
-                   points="37.87,202.969 147.517,135.483 147.517,202.969 "
+                   points="147.517,135.483 147.517,202.969 37.87,202.969 "
                    style="fill:#12145b" />
               </g>
               <rect
@@ -275,10 +275,10 @@
        r="57"
        id="circle236"
        style="fill:#ff0000;fill-opacity:1"
-       transform="matrix(1.9242977,0,0,1.9242977,260.67116,146.1837)" />
+       transform="matrix(1.9242977,0,0,1.9242977,256.67116,280.1837)" />
     <g
        id="g238"
-       transform="matrix(1.9242977,0,0,1.9242977,260.67116,146.1837)">
+       transform="matrix(1.9242977,0,0,1.9242977,256.67116,280.1837)">
       <path
          style="fill:#ffffff"
          inkscape:connector-curvature="0"
@@ -295,14 +295,45 @@
     <text
        xml:space="preserve"
        style="font-size:59.6948204px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#3d3d3d;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="374.93588"
-       y="848.25653"
+       x="366.93588"
+       y="108.25653"
        id="text2996-1"
        sodipodi:linespacing="80.000001%"><tspan
          sodipodi:role="line"
-         x="374.93588"
-         y="848.25653"
+         x="366.93588"
+         y="108.25653"
          style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
-         id="tspan3141-4">Bringing Hacking Home</tspan></text>
+         id="tspan3031">We're a Member of</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="106"
+       y="856.36218"
+       id="text3035"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3037"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:59.6948204px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#3d3d3d;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="373.90625"
+       y="869.73718"
+       id="text2996-1-1"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="373.90625"
+         y="869.73718"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
+         id="tspan3031-7">Visit</tspan><tspan
+         sodipodi:role="line"
+         x="373.90625"
+         y="933.73718"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
+         id="tspan3060">hackspace.org.uk</tspan><tspan
+         sodipodi:role="line"
+         x="373.90625"
+         y="997.73718"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
+         id="tspan3062">for more information</tspan></text>
   </g>
 </svg>
