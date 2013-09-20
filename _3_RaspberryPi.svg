@@ -14,7 +14,7 @@
    id="svg3121"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="_3_UseRaspberryPi.svg">
+   sodipodi:docname="_3_RaspberryPi.svg">
   <defs
      id="defs3123" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:zoom="1.5465812"
+     inkscape:cx="888.55221"
+     inkscape:cy="46.237619"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,8 +52,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       x="2.8073556"
-       y="4.296783"
+       x="0.22100583"
+       y="-0.22932921"
        width="744.1228"
        height="1052.073"
        style="fill:#bc1142;fill-opacity:1;stroke:none"
