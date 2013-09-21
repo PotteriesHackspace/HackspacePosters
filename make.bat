@@ -21,12 +21,14 @@ ECHO Making...
 :CHECK
 ECHO Checking...
 IF NOT EXIST "%INKSCAPEEXE%" (
-  ECHO Could not locate "%INKSCAPEEXE%"".
+  ECHO Could not locate "%INKSCAPEEXE%".
+  ECHO Download http://downloads.sourceforge.net/inkscape/inkscape-0.48.4-1-win32.exe
   GOTO END
 )
 
 IF NOT EXIST "%PDFTKEXE%" (
-  ECHO Could not locate "%PDFTKEXE%"".
+  ECHO Could not locate "%PDFTKEXE%".
+  ECHO Download http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_free-2.02-win-setup.exe
   GOTO END
 )
 
