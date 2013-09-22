@@ -312,28 +312,28 @@
        id="text3035"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3037"></tspan></text>
+         id="tspan3037" /></text>
     <text
        xml:space="preserve"
-       style="font-size:59.6948204px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#3d3d3d;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="373.90625"
-       y="869.73718"
+       style="font-size:59.6948204px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#3d3d3d;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="387.90625"
+       y="953.73718"
        id="text2996-1-1"
-       sodipodi:linespacing="100%"><tspan
+       sodipodi:linespacing="80.000001%"><tspan
          sodipodi:role="line"
-         x="373.90625"
-         y="869.73718"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
+         x="387.90625"
+         y="953.73718"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
          id="tspan3031-7">Visit</tspan><tspan
          sodipodi:role="line"
-         x="373.90625"
-         y="933.73718"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
+         x="387.90625"
+         y="991.37805"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
          id="tspan3060">hackspace.org.uk</tspan><tspan
          sodipodi:role="line"
-         x="373.90625"
-         y="997.73718"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
+         x="387.90625"
+         y="1023.3781"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia"
          id="tspan3062">for more information</tspan></text>
   </g>
 </svg>
